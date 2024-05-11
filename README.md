@@ -2,7 +2,7 @@
 
 Welcome to NostosTrailMapper, a sophisticated tool designed for efficient extraction of URLs and paths from web pages. Inspired by "Nostos", the Greek concept of a heroic return journey, this tool aids in the digital exploration and mapping of the web.
 
-![NostosTrailMapper](path_to_image_here)
+![NostosTrailMapper](https://github.com/prodrom3/NostosTrailMapper/assets/7604466/2872263b-788b-42f4-96d4-7670437b205a)
 
 ## Features
 
